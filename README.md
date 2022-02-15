@@ -35,7 +35,7 @@
   
   <hr>
   
-### ⚙️ Tech I use
+### ⚙️ Tech I'm using
   <a href="#"><img src="https://img.shields.io/badge/C-Proficient-_.svg?logo=c"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-Competent-_.svg?logo=Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Advanced%20Beginner-_.svg?logo=Javascript"></a>
