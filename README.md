@@ -14,7 +14,7 @@
 - 🎓 I’ve studied Software Engineering at <a href="https://www.s19.be/">s19</a> (42Network)
 - 🌱 I’m currently learning Python & Javascript
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - ⚙️ Algorithmic problems
+  - ⚙️ Solving problems
   - 💻 Writing code
   - 🛠 DIY Projects such as Drones, 3D Printing & Raspberry PI
 - 👯 I’m looking for a job as Software Developer 
