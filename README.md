@@ -5,6 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mweerts"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mweerts"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.hackerrank.com/mweerts"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
   <a href="mailto:weertsmaxime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
