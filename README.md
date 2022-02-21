@@ -19,7 +19,7 @@
   - 💻 Writing code
   - 🛠 DIY Projects such as Drones, 3D Printing & Raspberry PI
 - 👯 I’m looking for a job as Software Developer 
-- 📙 Check out my [Resume](https://www.linkedin.com/in/mweerts/)
+- 📙 Check out my [LinkedIn](https://www.linkedin.com/in/mweerts/)
 - 🎉 Fun-Fact: I ❤️ Science 🔬, New Technologies 🚀, Netflix 🎬 & Video Games 🎮
 
 <details>
