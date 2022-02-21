@@ -23,7 +23,7 @@
 - 🎉 Fun-Fact: I ❤️ Science 🔬, New Technologies 🚀, Netflix 🎬 & Video Games 🎮
 
 <details>
-  <summary>Some more stuff 😄</summary>
+  <summary>My Setup 😄</summary>
 
 ### 🖥️ My DevSetup
   <a href="#"><img src="https://img.shields.io/badge/-Windows-grey?style=flat-square&logo=Windows&logoColor=blue"></a>
