@@ -33,11 +33,12 @@
   <a href="#"><img src="https://img.shields.io/badge/-Terminal-grey?style=flat-square&logo=powershell&logoColor=black"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=vim&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Spotify-grey?style=flat-square&logo=spotify&logoColor=green"></a>
-  
+  <a href="#"><img src="https://img.shields.io/badge/-Slack-grey?style=flat-square&logo=slack"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Discord-grey?style=flat-square&logo=discord&logoColor=white"></a>
   <hr>
   
 ### ⚙️ Tech I'm using
-  <img src="https://img.shields.io/badge/C-Proficient-_.svg?logo=c" unselectable="on">
+  <a href="#"><img src="https://img.shields.io/badge/C-Proficient-_.svg?logo=c"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-Competent-_.svg?logo=Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Advanced%20Beginner-_.svg?logo=Javascript"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Adept-_.svg"></a>
