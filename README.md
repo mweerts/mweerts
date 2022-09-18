@@ -14,7 +14,7 @@
 ## ⚡️ A Few Quick Facts
 
 - 🎓 I’ve studied Software Engineering at <a href="https://www.s19.be/">s19</a> (42Network)
-- 🌱 I’m currently learning Python & Javascript
+- 🌱 I’m currently learning Python
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - ⚙️ Solving problems
   - 💻 Writing code
