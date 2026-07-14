@@ -81,7 +81,7 @@
       </strong>
     </td>
     <td>
-      Consolidated collection of projects completed during the 42 Common Core.
+      Consolidated collection of projects completed during the 42 Piscine and Common Core.
     </td>
     <td>
       <img src="https://img.shields.io/badge/FINISHED-success?style=flat-square">
@@ -89,9 +89,7 @@
   </tr>
   <tr>
     <td>
-      <strong>
-        <a href="https://github.com/mweerts/Qimmit-Wild-North">Qimmit Wild North</a>
-      </strong>
+      <strong>Qimmit Wild North</strong>
     </td>
     <td>
       Lightweight website for a sled-dog project in northern Finland.
@@ -102,9 +100,7 @@
   </tr>
   <tr>
     <td>
-      <strong>
-        <a href="https://github.com/mweerts/mweerts.dev">mweerts.dev</a>
-      </strong>
+      <strong>mweerts.dev</strong>
     </td>
     <td>
       Minimal personal website and project index.
