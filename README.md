@@ -77,7 +77,7 @@
   <tr>
     <td>
       <strong>
-        <a href="https://github.com/mweerts/42-projects">42 Projects</a>
+        <a href="https://github.com/mweerts/42-cursus">42 Cursus</a>
       </strong>
     </td>
     <td>
@@ -89,10 +89,12 @@
   </tr>
   <tr>
     <td>
-      <strong>Qimmit Wild North</strong>
+      <strong>
+        <a href="https://github.com/mweerts/mweerts.dev">mweerts.dev</a>
+      </strong>
     </td>
     <td>
-      Lightweight website for a sled-dog project in northern Finland.
+      Minimal personal website and project index.
     </td>
     <td>
       <img src="https://img.shields.io/badge/IN%20PROGRESS-orange?style=flat-square">
@@ -100,10 +102,10 @@
   </tr>
   <tr>
     <td>
-      <strong>mweerts.dev</strong>
+      <strong>Qimmit Wild North</strong>
     </td>
     <td>
-      Minimal personal website and project index.
+      Lightweight website for a sled-dog project in northern Finland.
     </td>
     <td>
       <img src="https://img.shields.io/badge/IN%20PROGRESS-orange?style=flat-square">
