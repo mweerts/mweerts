@@ -90,7 +90,7 @@
   <tr>
     <td>
       <strong>
-        <a href="https://github.com/mweerts/mweerts.dev">mweerts.dev</a>
+        <a href="https://mweerts.dev">mweerts.dev</a>
       </strong>
     </td>
     <td>
