@@ -89,9 +89,7 @@
   </tr>
   <tr>
     <td>
-      <strong>
-        <a href="https://mweerts.dev">mweerts.dev</a>
-      </strong>
+      <strong>mweerts.dev</strong>
     </td>
     <td>
       Minimal personal website and project index.
