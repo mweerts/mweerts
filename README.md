@@ -92,27 +92,35 @@
   </tr>
 
   <tr>
-    <td>
-      <strong>Qimmit Wild North</strong>
-      <br>
-      <a href="https://qimmitwildnorth.projects.mweerts.dev">
-        <img
-          src="https://img.shields.io/badge/Website-Open-2ea44f?style=flat-square&logo=firefoxbrowser&logoColor=white"
-          alt="Open external website"
-        >
-      </a>
-    </td>
-    <td>
-      Digital presence and website for an independent sled-dog business
-      in northern Finland.
-    </td>
-    <td>
+  <td>
+    <strong>Qimmit Wild North</strong>
+    <br>
+    <a href="https://qimmitwildnorth.projects.mweerts.dev">
       <img
-        src="https://img.shields.io/badge/IN%20PROGRESS-orange?style=flat-square"
-        alt="In progress"
+        src="https://img.shields.io/badge/Website-Open-2ea44f?style=flat-square&logo=firefoxbrowser&logoColor=white"
+        alt="Open Qimmit Wild North website"
       >
-    </td>
-  </tr>
+    </a>
+    <a href="https://github.com/mweerts/qimmit-wild-north">
+      <img
+        src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github&logoColor=white"
+        alt="Open Qimmit Wild North source code on GitHub"
+      >
+    </a>
+  </td>
+
+  <td>
+    Digital presence and website for an independent sled-dog business
+    in northern Finland.
+  </td>
+
+  <td>
+    <img
+      src="https://img.shields.io/badge/IN%20PROGRESS-orange?style=flat-square"
+      alt="In progress"
+    >
+  </td>
+</tr>
 
   <tr>
     <td>
